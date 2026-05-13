@@ -830,8 +830,7 @@ const scrollToTop = () => {
 
 
   return (
-    <div className={`min-h-screen transition-all duration-700 ${t.bg}`}>
-      <style>{`
+<div className={`min-h-screen overflow-x-hidden transition-all duration-700 ${t.bg}`}>      <style>{`
         .checkerboard-bg {
           background-image: 
             linear-gradient(45deg, rgba(148,163,184,0.1) 25%, transparent 25%),
@@ -877,9 +876,8 @@ const scrollToTop = () => {
                 className="text-center space-y-10 pt-8"
               >
                 
-                <div className="space-y-6">
-                  <h1 className="text-6xl sm:text-7xl md:text-8xl font-black leading-tight">
-                    <span className={`bg-gradient-to-r ${t.accent} bg-clip-text text-transparent`}>
+<div className="space-y-6 overflow-hidden">
+  <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black leading-tight break-words">                    <span className={`bg-gradient-to-r ${t.accent} bg-clip-text text-transparent`}>
                       Remove
                     </span>
                     <br />
@@ -887,8 +885,7 @@ const scrollToTop = () => {
                       Backgrounds
                     </span>
                   </h1>
-                  <p className={`text-xl sm:text-2xl ${t.textSecondary} max-w-3xl mx-auto leading-relaxed font-light`}>
-                    Professional AI-powered background removal
+<p className={`text-base sm:text-lg md:text-2xl ${t.textSecondary} max-w-3xl mx-auto leading-relaxed font-light px-4`}>                    Professional AI-powered background removal
                     <span className="block mt-3 text-lg font-medium">No signup • No watermarks • 100% Free</span>
                   </p>
                 </div>
