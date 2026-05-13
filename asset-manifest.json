@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36f7daca.css",
+    "main.js": "/static/js/main.ad088640.js",
+    "static/js/823.9e4e9099.chunk.js": "/static/js/823.9e4e9099.chunk.js",
+    "static/js/626.7e46cc9b.chunk.js": "/static/js/626.7e46cc9b.chunk.js",
+    "static/js/284.15826dc2.chunk.js": "/static/js/284.15826dc2.chunk.js",
+    "static/media/ort-wasm-simd-threaded.jsep.wasm": "/static/media/ort-wasm-simd-threaded.jsep.ce14fe5a0a12cc7d4389.wasm",
+    "static/media/ort.webgpu.bundle.min.mjs": "/static/media/ort.webgpu.bundle.min.b96afbb636aa1c419293.mjs",
+    "static/media/ort.bundle.min.mjs": "/static/media/ort.bundle.min.1d94f0c2c57eabaf47e0.mjs",
+    "index.html": "/index.html",
+    "main.36f7daca.css.map": "/static/css/main.36f7daca.css.map",
+    "main.ad088640.js.map": "/static/js/main.ad088640.js.map",
+    "823.9e4e9099.chunk.js.map": "/static/js/823.9e4e9099.chunk.js.map",
+    "626.7e46cc9b.chunk.js.map": "/static/js/626.7e46cc9b.chunk.js.map",
+    "284.15826dc2.chunk.js.map": "/static/js/284.15826dc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f7daca.css",
+    "static/js/main.ad088640.js"
+  ]
+}
